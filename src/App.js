@@ -3,7 +3,7 @@ import { useState } from 'react';
 
 // importing components
 import Overview from './components/Overview';
-import  Header from './components/Header'
+import Header from './components/Header'
 
 // importing Stylesheet(s)
 import './App.css';
